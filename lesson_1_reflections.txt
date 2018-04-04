@@ -1,0 +1,55 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I have seen both the removed (-) parts and added (+) parts together.
+    As a result I have easily recognized the typo. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    First of all I will not deal with saving old versions manually as a result
+    I will save time.
+    Second I may make mistakes while trying to save old versions. I may lose some 
+    data in this process.
+    Third in time I may forget where I have saved the old versions and waste time
+    while trying to find them. I may even remember incorrectly that I have saved a
+    version while I haven't saved it or visa vesva
+    Moreover if I can access every version easily I can save time for cleaning bugs
+    since the cause of bug may be 2-3 version back or more. 
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually choosing pros: If the user commits regularly the versions will
+    be in reasonable size. The versions will be more understandable.
+
+    Manually choosing cons: The user may not commit regularly.
+
+    Automatically choosing pros: It commits regularly.
+
+    Automatically choosing cons: The versioans may be too small or big. In 
+    addition they may not work properly since they may be incomplete.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because in programming you may change seperate files for the same functions.
+    These files must be tracked so the if you want to change them back to  previous
+    versions it will be much easier.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    First use git log to see the commits and the messages.
+    Second use git diff to see the differences between each commit. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Since I may easily turn back I am more confident to change the code. 
+    Whatsmore I can easily find that error easily.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to learn more about git and use in for android projects.

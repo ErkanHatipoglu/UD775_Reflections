@@ -35,3 +35,9 @@ The result is a unified files of both brances.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+pros:
+less time consuming
+
+cons: 
+confusing

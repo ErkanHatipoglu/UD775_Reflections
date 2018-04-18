@@ -41,4 +41,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I want other collaborator/s to see and check my changes I can use 
+    a seperate branch. So that other collaborator/s can check my changes and
+    the master branch won't be ruined.
+
